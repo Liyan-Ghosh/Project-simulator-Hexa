@@ -1,1 +1,1 @@
-# Project Simulator
+echo # Project Simulator
