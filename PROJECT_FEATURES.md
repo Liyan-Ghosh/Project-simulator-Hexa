@@ -1,6 +1,5 @@
-## T-ud06: create tournament page
-This task involves creating tournament page with tournament name feilds, including validation and error handaling.
-## T-ud06: Implemented 
-#T-70: Implement Update tournament page
+## T-lio88: Implement User Login Page
+## T-lio88: Implement adminsignup Page
+This task involves creating a adminsignup form component with email and passw
+ord,re-password,user type, fields, including validation and error handling.
 **Status: Implemented**
-
